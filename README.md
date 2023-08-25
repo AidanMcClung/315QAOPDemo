@@ -2,10 +2,8 @@
 An early example of how to use the QAOP code and it's functionality.
 
 ## This code is not what you should be using. 
-
-## If you're here, you're in the wrong place.
-
-## Head over to https://github.com/AidanMcClung/QAOP instead
+**If you're here, you're in the wrong place.** 
+**Head over to https://github.com/AidanMcClung/QAOP instead**
 
 
 
